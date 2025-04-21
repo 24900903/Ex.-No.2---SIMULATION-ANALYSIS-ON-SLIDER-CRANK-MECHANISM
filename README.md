@@ -36,7 +36,8 @@
 ###  4. Draw a horizontal at c, meeting the projection from b at a. join ca to complete the velocity diagram.
 
 ## Output
-![image](https://github.com/user-attachments/assets/3bacbc85-b1d0-44e8-9d27-abfeb26bced1)
+![Uploading Screenshot 2025-04-21 162814.png…]()
+
 ![image](https://github.com/user-attachments/assets/b2f0423d-2e33-4129-a97b-a805fd355057)
 
 ### Name: Harisha S
